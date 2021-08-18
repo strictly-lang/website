@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/strictly-lang/website#readme",
   "dependencies": {
-    "@strictly-lang/compiler": "^1.1.3"
+    "@strictly-lang/compiler": "^1.1.5"
   },
   "devDependencies": {
     "snowpack": "^3.8.6"
