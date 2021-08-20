@@ -22,6 +22,7 @@
     "@strictly-lang/compiler": "^1.1.8"
   },
   "devDependencies": {
+    "@strictly-lang/snowpack-plugin": "^1.0.2",
     "snowpack": "^3.8.6"
   }
 }

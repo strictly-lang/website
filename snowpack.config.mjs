@@ -5,6 +5,6 @@ export default {
         src: { url: '/dist' },
     },
     plugins: [
-        "./strictly-snowpack-plugin.js"
+        "@strictly-lang/snowpack-plugin"
     ]
 }
