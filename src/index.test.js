@@ -2,7 +2,7 @@ import { expect } from '@esm-bundle/chai';
 import "./index.sly"
 
 describe("index", () => {
-    it('sums up 2 numbers', () => {
+    it('does the component has correct content', () => {
         const container = document.createElement("src-index");
         document.body.appendChild(container);
 
