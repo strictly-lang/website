@@ -1,6 +1,6 @@
 view
 	footer
-		src-components-externallink{
+		a{
 			href="https://github.com/strictly-lang/compiler"
 		}
 			"github"
