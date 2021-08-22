@@ -1,6 +1,6 @@
 view
 	footer
 		a{
-			href="https://github.com/striclty-lang/compiler"
+			href="https://github.com/strictly-lang/compiler"
 		}
 			"github"
