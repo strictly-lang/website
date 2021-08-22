@@ -1,0 +1,10 @@
+style
+	a{
+		text-decoration = None
+	}
+view
+	a{
+		href=props.href
+		target="_blank"
+	}
+		slot
