@@ -1,2 +1,4 @@
 view
-	"Welcome to the strictly website"
+	.-app-header
+	.-app-content
+	.-app-footer

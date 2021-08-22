@@ -4,6 +4,9 @@ export default {
         public: { url: '/', static: true },
         src: { url: '/assets' },
     },
+    alias: {
+        "src": "./src"
+    },
     buildOptions: {
         out: "dist"
     },

@@ -1,0 +1,6 @@
+view
+	footer
+		a{
+			href="https://github.com/striclty-lang/compiler"
+		}
+			"github"
