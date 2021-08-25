@@ -252,10 +252,10 @@
   resolved "https://registry.yarnpkg.com/@snowpack/web-test-runner-plugin/-/web-test-runner-plugin-0.2.2.tgz#3ff24c67d1af425e9cf7dd1a5fd2e07a89242e97"
   integrity sha512-I7KC8BAcgRWZAg53w7Uq3UDY9hcn1ZGvmA+MjPqvgQXvKbwXfH0+T1nyPQmKUgYR1If99Vk4GnFscDZtaGbZCg==
 
-"@strictly-lang/compiler@^1.1.9":
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/@strictly-lang/compiler/-/compiler-1.1.9.tgz#1082d479d9ba94dbe98af7f38d8257aa2bd7f9aa"
-  integrity sha512-PsttJJojpBjNoT4gWOf8RwtH3ObwCpmuLmTf7KwnzRQ8PnPxZ5yJW9eLfTGygQ7a5KnjKkrUFaQ/3NJeqPF2iQ==
+"@strictly-lang/compiler@^1.1.11":
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/@strictly-lang/compiler/-/compiler-1.1.11.tgz#cc2fe02e19811785c2fbd19b0fe14829d534331e"
+  integrity sha512-dD2tJiv4FSi3VPic8NUB3GIMwuY8DUJaFAgSbC/F6p/hPVwpn8jbTuf9Zkdhc6WD3wb/78yhqKsbojIS11JW8A==
 
 "@strictly-lang/snowpack-plugin@^1.0.2":
   version "1.0.2"
