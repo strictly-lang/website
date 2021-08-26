@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/strictly-lang/website#readme",
   "dependencies": {
-    "@strictly-lang/compiler": "^1.1.11"
+    "@strictly-lang/compiler": "^1.1.13"
   },
   "devDependencies": {
     "@esm-bundle/chai": "^4.3.4-fix.0",
